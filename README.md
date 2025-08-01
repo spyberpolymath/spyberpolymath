@@ -90,7 +90,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website)](https://spyberpolymath.com) [![GitHub](https://img.shields.io/badge/GitHub)](https://github.com/spyberpolymath) [![Twitter](https://img.shields.io/badge/Twitter)](https://twitter.com/spyberpolymath) [![LinkedIn](https://img.shields.io/badge/LinkedIn)](https://linkedin.com/in/spyberpolymath) [![Instagram](https://img.shields.io/badge/Instagram)](https://instagram.com/spyberpolymath) [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box)](https://app.hackthebox.com/profile/spyberpolymath) [![Kaggle](https://img.shields.io/badge/Kaggle)](https://www.kaggle.com/spyberpolymath) [![HackerOne](https://img.shields.io/badge/HackerOne)](https://hackerone.com/spyberpolymath) [![WhatsApp](https://img.shields.io/badge/WhatsApp)](https://wa.me/917892939127) [![Phone](https://img.shields.io/badge/Phone)](tel:+917892939127) [![Gmail](https://img.shields.io/badge/Gmail)](mailto:amananiloffical@gmail.com)
+[![Website]](https://spyberpolymath.com)[![GitHub]](https://github.com/spyberpolymath)[![Twitter]](https://twitter.com/spyberpolymath)[![LinkedIn]](https://linkedin.com/in/spyberpolymath)[![Instagram]](https://instagram.com/spyberpolymath)[![Hack The Box]](https://app.hackthebox.com/profile/spyberpolymath)[![Kaggle]](https://www.kaggle.com/spyberpolymath)[![HackerOne]](https://hackerone.com/spyberpolymath)[![WhatsApp]](https://wa.me/917892939127)[![Phone]](tel:+917892939127)[![Gmail]](mailto:amananiloffical@gmail.com)
 
 </div>
 
