@@ -2,17 +2,17 @@
 
 **Self-taught Ethical Hacker | AI/DS Researcher | Full-Stack Researcher**
 
-💀 I design future-proof, privacy-first systems with full control and zero compromise.
-📚 Blending theory with practical experience to create robust security solutions
-🔍 Focused on discovering vulnerabilities before malicious actors can exploit them
-🌐 Building sustainable tech ecosystems that respect user autonomy and data sovereignty
-⚡ Specializing in threat intelligence, digital forensics, and secure system architecture
+💀 I design future-proof, privacy-first systems with full control and zero compromise. <br>
+📚 Blending theory with practical experience to create robust security solutions. <br>
+🔍 Focused on discovering vulnerabilities before malicious actors can exploit them. <br>
+🌐 Building sustainable tech ecosystems that respect user autonomy and data sovereignty. <br>
+⚡ Specializing in threat intelligence, digital forensics, and secure system architecture. <br>
 
-🔒 Privacy is power
-🧠 Code is philosophy
-🛡️ CyberCrime & CyberSecurity Researcher
-🧬 Artificial Intelligence & Data Science Researcher
-🧰 Full-Stack Researcher
+🔒 Privacy is power <br>
+🧠 Code is philosophy <br>
+🛡️ CyberCrime & CyberSecurity Researcher <br>
+🧬 Artificial Intelligence & Data Science Researcher <br>
+🧰 Full-Stack Researcher <br>
 
 ---
 
@@ -28,11 +28,7 @@
 
 ## 📖 Obadiah 1:4
 
-"Though you soar aloft like the eagle,
-though your nest is set among the stars,
-from there I will bring you down,
-declares the Lord."
-
+> "Though you soar aloft like the eagle, though your nest is set among the stars, from there I will bring you down, declares the Lord."
 ---
 
 ## 🧾 Education
@@ -94,22 +90,7 @@ declares the Lord."
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://spyberpolymath.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spyberpolymath)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/spyberpolymath)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spyberpolymath)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spyberpolymath)
-
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/spyberpolymath)
-[![Let's Defend](https://img.shields.io/badge/Let's%20Defend-FF6B35?style=for-the-badge&logo=shield&logoColor=white)](https://letsdefend.io/profile/spyberpolymath)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/spyberpolymath)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/spyberpolymath)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917892939127)
-[![Phone](https://img.shields.io/badge/Phone-00C851?style=for-the-badge&logo=phone&logoColor=white)](telto:+917892939127)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amananiloffical@gmail.com)
-[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:info@spyberpolymath.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://spyberpolymath.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spyberpolymath) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/spyberpolymath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spyberpolymath) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spyberpolymath) [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/spyberpolymath) [![Let's Defend](https://img.shields.io/badge/Let's%20Defend-FF6B35?style=for-the-badge&logo=shield&logoColor=white)](https://letsdefend.io/profile/spyberpolymath) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/spyberpolymath) [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/spyberpolymath) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917892939127) [![Phone](https://img.shields.io/badge/Phone-00C851?style=for-the-badge&logo=phone&logoColor=white)](telto:+917892939127) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amananiloffical@gmail.com) [![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:info@spyberpolymath.com)
 
 </div>
 
@@ -122,8 +103,10 @@ My goal is to become a leading cyberpolymath researcher and scientist, excelling
 
 ## 🔮 My Philosophy
 
+<div align="center">
 ```text
 Faith fuels my discipline.  
 Discipline builds my systems.  
 Systems shape the future.
 ```
+</div>
