@@ -69,11 +69,11 @@
 - NumPy, pandas, Jupyter, PowerBi
 
 ### 🧰 Full Stack Development
-- **Backend**: FastAPI, Django  
+- **Backend**: Django  
 - **Frontend (Web)**: Next.js  
 - **Cross-platform (Mobile/Desktop/Server)**: Flutter  
 - **Database**: PostgreSQL  
-- **Infra**: Docker, NGINX, Linux, Linode
+- **Infra**: Docker, NGINX, Linux, Linode, GCP, AWS, AZURE
 
 ---
 
