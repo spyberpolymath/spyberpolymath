@@ -87,13 +87,21 @@
 
 ---
 ## 🌐 Connect With Me
-
 <div align="center">
 
-[![Website]](https://spyberpolymath.com)[![GitHub]](https://github.com/spyberpolymath)[![Twitter]](https://twitter.com/spyberpolymath)[![LinkedIn]](https://linkedin.com/in/spyberpolymath)[![Instagram]](https://instagram.com/spyberpolymath)[![Hack The Box]](https://app.hackthebox.com/profile/spyberpolymath)[![Kaggle]](https://www.kaggle.com/spyberpolymath)[![HackerOne]](https://hackerone.com/spyberpolymath)[![WhatsApp]](https://wa.me/917892939127)[![Phone]](tel:+917892939127)[![Gmail]](mailto:amananiloffical@gmail.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://spyberpolymath.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/spyberpolymath)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/spyberpolymath)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/spyberpolymath)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/spyberpolymath)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=Hack-The-Box&logoColor=black)](https://app.hackthebox.com/profile/spyberpolymath)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/spyberpolymath)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=HackerOne&logoColor=white)](https://hackerone.com/spyberpolymath)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/917892939127)
+[![Phone](https://img.shields.io/badge/Phone-007AFF?style=for-the-badge&logo=Apple&logoColor=white)](tel:+917892939127)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:amananiloffical@gmail.com)
 
 </div>
-
 ---
 
 ---
