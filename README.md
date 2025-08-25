@@ -87,7 +87,6 @@
 
 ---
 ## 🌐 Connect With Me
-<div align="center">
 <a href="https://spyberpolymath.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg" width="40" height="40" style="fill: #00D4AA;"/>
 </a><a href="https://github.com/spyberpolymath" target="_blank">
@@ -109,7 +108,6 @@
 </a><a href="mailto:amananiloffical@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="fill: #EA4335;"/>
 </a>
-</div>
 
 ---
 ### 🎯 Goals  
