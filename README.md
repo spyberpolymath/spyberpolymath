@@ -91,34 +91,34 @@
 
 <div align="center">
 <a href="https://spyberpolymath.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg" width="40" height="40" style="fill: #00D4AA;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/about-me.png" width="40" height="40"/>
 </a>
 <a href="https://github.com/spyberpolymath" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" height="40" style="fill: #181717;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40"/>
 </a>
 <a href="https://twitter.com/spyberpolymath" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" height="40" style="fill: #1DA1F2;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40" height="40"/>
 </a>
 <a href="https://linkedin.com/in/spyberpolymath" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40" style="fill: #0A66C2;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40"/>
 </a>
 <a href="https://instagram.com/spyberpolymath" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40" style="fill: #E4405F;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
 </a>
 <a href="https://app.hackthebox.com/profile/spyberpolymath" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackthebox.svg" width="40" height="40" style="fill: #9FEF00;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/hack-the-box.png" width="40" height="40"/>
 </a>
 <a href="https://www.kaggle.com/spyberpolymath" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="40" height="40" style="fill: #20BEFF;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/kaggle.png" width="40" height="40"/>
 </a>
 <a href="https://hackerone.com/spyberpolymath" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerone.svg" width="40" height="40" style="fill: #494649;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/hackerone.png" width="40" height="40"/>
 </a>
 <a href="https://wa.me/917892939127" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="40" height="40" style="fill: #25D366;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" width="40" height="40"/>
 </a>
 <a href="mailto:amananiloffical@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="fill: #EA4335;"/>
+  <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40" height="40"/>
 </a>
 </div>
 ---
