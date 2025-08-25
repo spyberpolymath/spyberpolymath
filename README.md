@@ -96,6 +96,7 @@
 [![Kaggle](https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/spyberpolymath)
 [![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spyberpolymath)
 [![Twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/spyberpolymath)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/spyberpolymath)
 [![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spyberpolymath)
 [![HackerOne](https://img.shields.io/badge/-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/spyberpolymath)
 </div>
