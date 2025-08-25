@@ -91,7 +91,7 @@
 
 <div align="center">
 <a href="https://spyberpolymath.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/about-me.png" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=About.me&logoColor=white" width="40" height="40"/>
 </a>
 <a href="https://github.com/spyberpolymath" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40"/>
@@ -106,16 +106,13 @@
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
 </a>
 <a href="https://app.hackthebox.com/profile/spyberpolymath" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/hack-the-box.png" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" width="40" height="40"/>
 </a>
 <a href="https://www.kaggle.com/spyberpolymath" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/kaggle.png" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="40" height="40"/>
 </a>
 <a href="https://hackerone.com/spyberpolymath" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/hackerone.png" width="40" height="40"/>
-</a>
-<a href="https://wa.me/917892939127" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/-494649?style=for-the-badge&logo=hackerone&logoColor=white" width="40" height="40"/>
 </a>
 <a href="mailto:amananiloffical@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40" height="40"/>
