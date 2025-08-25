@@ -87,7 +87,7 @@
 
 ---
 ## 🌐 Connect With Me
-<div class="center">
+<div algin="center">
 <a href="https://spyberpolymath.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg" width="40" height="40" style="fill: #00D4AA;"/>
 </a><a href="https://github.com/spyberpolymath" target="_blank">
