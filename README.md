@@ -88,17 +88,36 @@
 ---
 ## 🌐 Connect With Me
 <div align="center">
-
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://spyberpolymath.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spyberpolymath)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/spyberpolymath)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spyberpolymath)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spyberpolymath)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black)](https://app.hackthebox.com/profile/spyberpolymath)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/spyberpolymath)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/spyberpolymath)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917892939127)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amananiloffical@gmail.com)
+<a href="https://spyberpolymath.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg" width="40" height="40"/>
+</a>
+<a href="https://github.com/spyberpolymath" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/spyberpolymath" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" height="40"/>
+</a>
+<a href="https://linkedin.com/in/spyberpolymath" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" height="40"/>
+</a>
+<a href="https://instagram.com/spyberpolymath" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40"/>
+</a>
+<a href="https://app.hackthebox.com/profile/spyberpolymath" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackthebox.svg" width="40" height="40"/>
+</a>
+<a href="https://www.kaggle.com/spyberpolymath" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="40" height="40"/>
+</a>
+<a href="https://hackerone.com/spyberpolymath" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerone.svg" width="40" height="40"/>
+</a>
+<a href="https://wa.me/917892939127" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="40" height="40"/>
+</a>
+<a href="mailto:amananiloffical@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40"/>
+</a>
 </div>
 
 ---
