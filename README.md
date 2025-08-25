@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Aman Anil — aka **spyberpolymath**
 
-**Self-taught Ethical Hacker | AI/DS Researcher | Full-Stack Researcher**
+**Self-taught Full-Stack Engineer | AI/DS Researcher | Bug Bounty Hunter | Ethical Hacker | Cyber Crime & Cyber Security Researcher**
 
 💀 I design future-proof, privacy-first systems with full control and zero compromise.  
 📚 Blending theory with practical experience to create robust security solutions.  
