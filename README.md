@@ -114,13 +114,10 @@ My goal is to become a leading cyberpolymath researcher and scientist, excelling
 ---
 
 ## 🔮 My Philosophy
-
 <div align="center">
 
 ```text
-Faith fuels my discipline.  
-Discipline builds my systems.  
-Systems shape the future.
+Faith fuels my discipline, Discipline builds my systems, Systems shape the future.
 ```
 
 </div>
