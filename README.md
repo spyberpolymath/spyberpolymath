@@ -87,6 +87,7 @@
 
 ---
 ## 🌐 Connect With Me
+<div class="center">
 <a href="https://spyberpolymath.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg" width="40" height="40" style="fill: #00D4AA;"/>
 </a><a href="https://github.com/spyberpolymath" target="_blank">
@@ -108,7 +109,7 @@
 </a><a href="mailto:amananiloffical@gmail.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" height="40" style="fill: #EA4335;"/>
 </a>
-
+</div>
 ---
 ### 🎯 Goals  
 My goal is to become a leading cyberpolymath researcher and scientist, excelling as an expert in cybersecurity, AI, and data science. I aim to collaborate with government agencies, the army, and corporate organizations on groundbreaking and complex Research and Development (R&D) projects, driving advancements in these critical fields.
