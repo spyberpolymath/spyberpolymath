@@ -87,7 +87,6 @@
 
 ---
 ## 🌐 Connect With Me
-# Social Links
 
 <div align="center">
 [![Website](https://img.shields.io/badge/-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://spyberpolymath.com)
@@ -101,6 +100,7 @@
 [![WhatsApp](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917892939127)
 [![Gmail](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amananiloffical@gmail.com)
 </div>
+
 ---
 ### 🎯 Goals  
 My goal is to become a leading cyberpolymath researcher and scientist, excelling as an expert in cybersecurity, AI, and data science. I aim to collaborate with government agencies, the army, and corporate organizations on groundbreaking and complex Research and Development (R&D) projects, driving advancements in these critical fields.
