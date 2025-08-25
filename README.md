@@ -90,15 +90,14 @@
 
 <div align="center">
 [![Website](https://img.shields.io/badge/-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://spyberpolymath.com)
-[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spyberpolymath)
-[![Twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/spyberpolymath)
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/spyberpolymath)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spyberpolymath)
+[![Gmail](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amananiloffical@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917892939127)
 [![Hack The Box](https://img.shields.io/badge/-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black)](https://app.hackthebox.com/profile/spyberpolymath)
 [![Kaggle](https://img.shields.io/badge/-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/spyberpolymath)
+[![GitHub](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spyberpolymath)
+[![Twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/spyberpolymath)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/spyberpolymath)
 [![HackerOne](https://img.shields.io/badge/-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/spyberpolymath)
-[![WhatsApp](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917892939127)
-[![Gmail](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amananiloffical@gmail.com)
 </div>
 
 ---
