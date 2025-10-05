@@ -147,8 +147,3 @@ Obadiah 1:4
 </pre>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spyberpolymath&show_icons=true&theme=radical&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=20C20E" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyberpolymath&layout=compact&theme=radical&bg_color=0d1117&title_color=20C20E&text_color=20C20E" height="170"/>
-</div>
