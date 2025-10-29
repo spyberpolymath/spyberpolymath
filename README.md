@@ -1,153 +1,118 @@
-<p align="center">
-	<img src="https://img.shields.io/badge/spyberpolymath-20C20E?style=for-the-badge&logo=github&logoColor=black" alt="spyberpolymath" />
-	<br />
-	<strong>Personal profile — enhanced UI (no content removed)</strong>
-</p>
+# 👋 Hey there, I'm Aman Anil — aka **spyberpolymath**
+
+**Self-taught Full-Stack Engineer | AI/DS Researcher | Bug Bounty Hunter | Ethical Hacker | Cyber Crime & Cyber Security Researcher**
+
+💀 I design future-proof, privacy-first systems with full control and zero compromise.  
+📚 Blending theory with practical experience to create robust security solutions.  
+🔍 Focused on discovering vulnerabilities before malicious actors can exploit them.  
+🌐 Building sustainable tech ecosystems that respect user autonomy and data sovereignty.  
+⚡ Specializing in threat intelligence, digital forensics, and secure system architecture.  
+🔒 Privacy is power  
+🧠 Code is philosophy  
+🛡️ CyberCrime & CyberSecurity Researcher  
+🧬 Artificial Intelligence & Data Science Researcher  
+🧰 Full-Stack Researcher  
 
 ---
 
-## Quick Links & Highlights
+## 🧠 Why I Build
 
-- Location: India — Current Status: Active Researcher
-- Focus: Red Team Operations, IoT Exploitation, Firmware Analysis
-- Contact: [Email](mailto:amananilofficial@gmail.com) · [Portfolio](https://spyberpolymath.com)
+> "I don't chase trends. I build timeless systems that protect privacy, elevate human focus, and serve truth — not profit."
 
-### Table of Contents
-
-- [About Me](#about-me)
-- [Tech Stack](#tech-stack)
-- [Education](#education)
-- [Current Projects](#current-projects)
-- [Achievements](#achievements)
-- [Philosophy](#philosophy)
-- [Connect With Me](#connect-with-me)
+- No investors. No compromise.  
+- Build in silence. Launch with impact.  
+- Technology must protect — not exploit.
 
 ---
 
-> Note: The full original README content follows below exactly as it was — nothing removed.
+## 📖 Obadiah 1:4
 
-# AMAN ANIL
-## `spyberpolymath`
+> "Though you soar aloft like the eagle, though your nest is set among the stars, from there I will bring you down, declares the Lord."
+
+---
+
+## 🧾 Education
+
+- 🎓 **Bachelor of Computer Applications (BCA)** – Cyber Security & Ethical Hacking  
+  *Bangalore College of Management Studies, Bangalore*  
+  *Ongoing | Starting August 2025*
+
+- 🎓 **Diploma in Computer Science & Engineering**  
+  *Al-Khateeb Polytechnic College*  
+  *Completed in 2024 | CGPA: 8.59*
+
+- 🏫 **Secondary School Certificate (SSLC)**  
+  *Preethi Dam English Medium High School (KSEEB Board)*  
+  *Completed in 2019 | 54.82%*
+
+---
+
+## 🧭 Areas of Interest
+
+- 🔐 Cyber Crime & Offensive Security  
+- ⚙️ AI/ML with Full Data Sovereignty  
+- 🧬 Data Science & Local LLM Development  
+- 📡 Electronics for Hacking (IoT, RF, SDR, Firmware RE)  
+- 🧱 Full-Stack Engineering (Backend, Mobile, Infra)  
+- 🔍 Privacy-first architecture & digital minimalism
+
+---
+
+## ⚙️ Core Tech Stack
+
+### 🔒 Cybersecurity & Reverse Engineering
+- Parrot Sec OS, Ghidra, Wireshark, Nmap, Burp Suite, Binwalk, Flashrom  
+- Firmware Dumping, USB HID Attacks, SDR, UART/SPI/I2C Protocols  
+
+### 🤖 Artificial Intelligence & Data Science
+- PyTorch, scikit-learn, TensorFlow
+- NumPy, pandas, Jupyter, Power BI
+
+### 🧰 Full Stack Development
+- **Backend**: Django  
+- **Frontend (Web)**: Next.js  
+- **Cross-platform (Mobile/Desktop/Server)**: Flutter  
+- **Database**: PostgreSQL  
+- **Infrastructure**: Docker, NGINX, Linux, Linode, GCP, AWS, Azure
+
+---
+
+## 💻 Lab & Real-World Projects
+
+- IoT & Forensics Lab (CH341A, ESP32, Logic Analyzer)  
+- BIOS Dumping, Flash Chip Cloning  
+- Smart Device Reverse Engineering  
+- Offensive Automation Tools (API, Mobile, Infrastructure Scanning)  
+- Private AI Stack for Bug Bounty Intelligence
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-![Cybersecurity Researcher](https://img.shields.io/badge/Cybersecurity_Researcher-20C20E?style=for-the-badge&logoColor=black)
-![Penetration Tester](https://img.shields.io/badge/Penetration_Tester-20C20E?style=for-the-badge&logoColor=black)
-![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-20C20E?style=for-the-badge&logoColor=black)
-
----
-
-### **Connect With Me**
-
-[![Website](https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=About.me&logoColor=black)](https://spyberpolymath.com)
-[![Email](https://img.shields.io/badge/Email-20C20E?style=for-the-badge&logo=gmail&logoColor=black)](mailto:amananilofficial@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-20C20E?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/spyberpolymath)
-[![GitHub](https://img.shields.io/badge/GitHub-20C20E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/spyberpolymath)
-[![Twitter](https://img.shields.io/badge/Twitter-20C20E?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/spyberpolymath)
-[![HackerOne](https://img.shields.io/badge/HackerOne-20C20E?style=for-the-badge&logo=hackerone&logoColor=black)](https://hackerone.com/spyberpolymath1)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-20C20E?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/spyberpolymath)
-
+[![Website](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://spyberpolymath.com)
+[![Mail](https://img.icons8.com/ios-filled/50/000000/new-post.png)](mailto:amananilofficial@gmail.com)
+[![Kaggle](https://img.icons8.com/?size=50&id=Omk4fWoSmCHm&format=png&color=000000)](https://www.kaggle.com/spyberpolymath)
+[![GitHub](https://img.icons8.com/ios-filled/50/181717/github.png)](https://github.com/spyberpolymath)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://linkedin.com/in/spyberpolymath)
+[![Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://twitter.com/spyberpolymath)
+[![HackerOne](https://img.icons8.com/ios-filled/50/494649/hacker.png)](https://hackerone.com/spyberpolymath1)
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 Goals  
 
-```
-Cybersecurity Researcher & Ethical Hacker
-Specializing in Offensive Security, IoT Exploitation & Firmware Analysis
-CTF Finalist | Bug Bounty Hunter | Conference Speaker
-"Building privacy-first systems that protect users and defend autonomy"
-```
-
-**Current Status:** `Active Researcher` | **Location:** `India` | **Focus:** `Red Team Operations`
+My goal is to become a leading cyberpolymath researcher and scientist, excelling as an expert in cybersecurity, AI, and data science. I aim to collaborate with government agencies, the army, and corporate organizations on groundbreaking and complex Research and Development (R&D) projects, driving advancements in these critical fields.
 
 ---
 
-## 💻 Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-20C20E?style=for-the-badge&logo=python&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-20C20E?style=for-the-badge&logo=typescript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-20C20E?style=for-the-badge&logo=cplusplus&logoColor=black)
-
-### Security Tools
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-20C20E?style=for-the-badge&logo=burpsuite&logoColor=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-20C20E?style=for-the-badge&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-20C20E?style=for-the-badge&logo=wireshark&logoColor=black)
-![Ghidra](https://img.shields.io/badge/Ghidra-20C20E?style=for-the-badge&logoColor=black)
-![Nmap](https://img.shields.io/badge/Nmap-20C20E?style=for-the-badge&logoColor=black)
-
-### Frameworks
-![Django](https://img.shields.io/badge/Django-20C20E?style=for-the-badge&logo=django&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-20C20E?style=for-the-badge&logo=nextdotjs&logoColor=black)
-
----
-
-## 🎓 Education
-
-### 🎓 Bachelor of Computer Applications (BCA)
-**Specialization:** Cyber Security & Ethical Hacking  
-**Institution:** Bangalore College of Management Studies  
-**Duration:** Aug 2022 - Aug 2025 (Expected)
-
-### 📜 Diploma in Computer Science & Engineering
-**Institution:** Al-Khateeb Polytechnic  
-**Year:** 2024 | **CGPA:** 8.59/10
-
-### 🏫 SSLC (Secondary School)
-**Institution:** Preethi Dam English Medium High School  
-**Year:** 2019
-
----
-
-## 🚀 Current Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔬 IoT Security Lab | Hardware hacking & firmware analysis |
-| ⚔️ Red Team Automation | Custom penetration testing tools |
-| 🤖 Private AI Stack | Local LLM deployment for security research |
-| 💾 Firmware RE Framework | Systematic firmware reverse engineering |
-| 🔐 Secure Messaging | End-to-end encrypted communication platform |
-
----
-
-## 🏆 Achievements
-
-- 🥇 **CTF Finalist** - Multiple international cybersecurity competitions
-- 📢 **Conference Speaker** - IoT security & firmware exploitation talks
-- 📝 **Published Researcher** - AI-driven cybersecurity research papers
-- 🕵️ **Vulnerability Researcher** - 15+ critical CVEs discovered
-- 🎯 **Certifications** - CEH, eJPT | OSCP (In Progress)
-
----
-
-## 💭 Philosophy
-
-```
-"I don't chase trends. I build timeless systems that protect privacy, 
- elevate human focus, and serve truth — not profit."
-
-[CORE VALUES]
-• Privacy is a human right
-• Security by design, not afterthought  
-• Open knowledge elevates everyone
-• Faith fuels discipline
-• Discipline builds systems
-• Systems shape the future
-```
-
----
-
+## 🔮 My Philosophy
 <div align="center">
 
+```text
+Faith fuels my discipline, Discipline builds my systems, Systems shape the future.
 ```
-STATUS: Online | MODE: Hunt | TARGET: Privacy & Security for All
-```
-
-**© 2025 Aman Anil (spyberpolymath)**
-
-"*In a world of surveillance, be the guardian of privacy.*"
 
 </div>
