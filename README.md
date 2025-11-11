@@ -91,13 +91,13 @@
 
 <div align="center">
 
-[![Website](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://spyberpolymath.com)
-[![Mail](https://img.icons8.com/ios-filled/50/000000/new-post.png)](mailto:amananilofficial@gmail.com)
-[![Kaggle](https://img.icons8.com/?size=50&id=Omk4fWoSmCHm&format=png&color=000000)](https://www.kaggle.com/spyberpolymath)
-[![GitHub](https://img.icons8.com/ios-filled/50/181717/github.png)](https://github.com/spyberpolymath)
-[![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://linkedin.com/in/spyberpolymath)
-[![Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://twitter.com/spyberpolymath)
-[![HackerOne](https://img.icons8.com/ios-filled/50/494649/hacker.png)](https://hackerone.com/spyberpolymath1)
+[![Website](https://img.icons8.com/ios-filled/50/40a9ff/domain.png)](https://spyberpolymath.com)
+[![Mail](https://img.icons8.com/ios-filled/50/40a9ff/new-post.png)](mailto:amananilofficial@gmail.com)
+[![Kaggle](https://img.icons8.com/?size=50&id=Omk4fWoSmCHm&format=png&color=0078D4)](https://www.kaggle.com/spyberpolymath)
+[![GitHub](https://img.icons8.com/ios-filled/50/40a9ff/github.png)](https://github.com/spyberpolymath)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/40a9ff/linkedin.png)](https://linkedin.com/in/spyberpolymath)
+[![HackerOne](https://img.icons8.com/ios-filled/50/40a9ff/hacker.png)](https://hackerone.com/spyberpolymath1)
+
 </div>
 
 ---
