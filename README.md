@@ -96,7 +96,6 @@
 [![Kaggle](https://img.icons8.com/?size=50&id=Omk4fWoSmCHm&format=png&color=0078D4)](https://www.kaggle.com/spyberpolymath)
 [![GitHub](https://img.icons8.com/ios-filled/50/40a9ff/github.png)](https://github.com/spyberpolymath)
 [![LinkedIn](https://img.icons8.com/ios-filled/50/40a9ff/linkedin.png)](https://linkedin.com/in/spyberpolymath)
-[![HackerOne](https://img.icons8.com/ios-filled/50/40a9ff/hacker.png)](https://hackerone.com/spyberpolymath1)
 
 </div>
 
