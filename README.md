@@ -132,7 +132,6 @@ My goal is to become a leading Cyberpolymath, collaborating with government agen
 [![Website](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://spyberpolymath.com)
 [![About](https://img.icons8.com/ios-filled/50/000000/info.png)](https://about.spyberpolymath.com)
 [![Mail](https://img.icons8.com/ios-filled/50/EA4335/new-post.png)](mailto:aman@spyberpolymath.com)
-[![X/Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://x.com/spyberpolymath)
 [![GitHub](https://img.icons8.com/ios-filled/50/181717/github.png)](https://github.com/spyberpolymath)
 [![LinkedIn](https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png)](https://linkedin.com/in/spyberpolymath)
 
