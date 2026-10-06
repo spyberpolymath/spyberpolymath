@@ -75,7 +75,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spyberpolymath&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=spyberpolymath&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/spyberpolymath?style=for-the-badge&color=6366f1&label=FOLLOWERS" alt="GitHub followers" />
 </p>
 
@@ -267,11 +267,6 @@ const aman = {
 
 <div align="center">
 
-<!-- Profile Summary Cards — self-hosted via Vercel, more reliable than github-readme-stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spyberpolymath&theme=github_dark" width="100%" alt="Profile Details" />
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spyberpolymath&theme=github_dark" width="49%" alt="Repos per Language" />
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spyberpolymath&theme=github_dark" width="49%" alt="Stats" />
@@ -283,8 +278,8 @@ const aman = {
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spyberpolymath&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6EE7F7&line=6366f1&point=6EE7F7&area=true&area_color=6366f1" alt="Activity Graph" />
+<!-- Activity Graph — rendered by the profile summary service because the old activity-graph deployment is unavailable -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spyberpolymath&theme=github_dark" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
