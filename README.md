@@ -128,6 +128,82 @@ const aman = {
 
 ---
 
+## 🚀 Ventures & Brands
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://spyberpolymath.com">
+        <img src="https://img.shields.io/badge/SPYBER_POLYMATH-0A1628?style=for-the-badge&logoColor=6EE7F7" alt="Spyber Polymath" />
+      </a>
+      <br/><br/>
+      <sub><b>Founder & Creator</b></sub>
+      <br/>
+      <sub>Personal technology brand and production lab for software, security and applied AI</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/HOUSE_OF_LOREVA-0A1628?style=for-the-badge&logoColor=6EE7F7" alt="House of Loreva" />
+      <br/><br/>
+      <sub><b>Founder & Creator</b></sub>
+      <br/>
+      <sub>Luxury brand and storytelling house, built with refined editorial design</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/ZYONICS_WORKS_LLP-0A1628?style=for-the-badge&logoColor=6EE7F7" alt="Zyonics Works LLP" />
+      <br/><br/>
+      <sub><b>Co-Founder & COO</b></sub>
+      <br/>
+      <sub>Building and operating technology solutions with a founder-led team</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/LOVOSIS_TECHNOLOGY-0A1628?style=for-the-badge&logoColor=6EE7F7" alt="Lovosis Technology" />
+      <br/><br/>
+      <sub><b>Head of Bangalore Team</b></sub>
+      <br/>
+      <sub>Leading cloud, DevSecOps and engineering delivery from Bengaluru</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 What I Do
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>💻</h3>
+      <b>Software Engineering</b>
+      <br/><sub>Full-stack web platforms with Next.js, React, TypeScript, Python and Django</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🔐</h3>
+      <b>Offensive Security</b>
+      <br/><sub>Application security engineering, penetration testing and security research</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>☁️</h3>
+      <b>Cloud & DevSecOps</b>
+      <br/><sub>Linux VPS hardening, Docker, CI/CD automation and secure infrastructure</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖</h3>
+      <b>Applied AI</b>
+      <br/><sub>Agent workflows, RAG pipelines and intelligent automation</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
