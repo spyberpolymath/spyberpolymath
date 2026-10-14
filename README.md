@@ -67,16 +67,16 @@
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:aman@spyberpolymath.com"><img src="https://img.icons8.com/color/48/email.png" width="36" height="36" alt="Email" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/spyberpolymath"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/theamananil"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/spyberpolymath"><img src="https://img.icons8.com/color/48/github.png" width="36" height="36" alt="GitHub" /></a>
+  <a href="https://github.com/theamananil"><img src="https://img.icons8.com/color/48/github.png" width="36" height="36" alt="GitHub" /></a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spyberpolymath&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/spyberpolymath?style=for-the-badge&color=6366f1&label=FOLLOWERS" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=theamananil&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/theamananil?style=for-the-badge&color=6366f1&label=FOLLOWERS" alt="GitHub followers" />
 </p>
 
 </div>
@@ -87,7 +87,7 @@
 
 ```ts
 const aman = {
-  alias: "spyberpolymath",
+  alias: "theamananil",
   location: "Bengaluru, Karnataka, India 🇮🇳",
   roles: [
     "Founder & Creator @ House of Loreva",
@@ -267,19 +267,19 @@ const aman = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spyberpolymath&theme=github_dark" width="49%" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theamananil&theme=github_dark" width="49%" alt="Repos per Language" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=spyberpolymath&theme=github_dark" width="49%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theamananil&theme=github_dark" width="49%" alt="Stats" />
 
 <br/><br/>
 
 <!-- Streak Stats — demolab endpoint (more stable) -->
-<img src="https://streak-stats.demolab.com?user=spyberpolymath&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=6EE7F7&fire=6366f1&currStreakLabel=6EE7F7&sideNums=c9d1d9&dates=8b949e&stroke=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=theamananil&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=6EE7F7&fire=6366f1&currStreakLabel=6EE7F7&sideNums=c9d1d9&dates=8b949e&stroke=0D1117" alt="GitHub Streak" />
 
 <br/><br/>
 
 <!-- Activity Graph — rendered by the profile summary service because the old activity-graph deployment is unavailable -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spyberpolymath&theme=github_dark" width="100%" alt="GitHub Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theamananil&theme=github_dark" width="100%" alt="GitHub Activity Graph" />
 
 </div>
 
@@ -293,12 +293,12 @@ const aman = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/spyberpolymath/spyberpolymath/output/github-snake-dark.svg"/>
+    srcset="https://raw.githubusercontent.com/theamananil/theamananil/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/spyberpolymath/spyberpolymath/output/github-snake.svg"/>
+    srcset="https://raw.githubusercontent.com/theamananil/theamananil/output/github-snake.svg"/>
   <img
     alt="github contribution snake"
-    src="https://raw.githubusercontent.com/spyberpolymath/spyberpolymath/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/theamananil/theamananil/output/github-snake-dark.svg"
     width="100%"/>
 </picture>
 
@@ -311,7 +311,7 @@ const aman = {
 > _Discipline builds my systems._
 > _Systems shape the future."_
 >
-> **— Aman Anil · spyberpolymath**
+> **— Aman Anil · theamananil**
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  FOOTER — Pure SVG (no external service)       -->
