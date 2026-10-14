@@ -25,7 +25,7 @@ jobs:
       - name: Generate contribution snake (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: spyberpolymath
+          github_user_name: theamananil
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
